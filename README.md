@@ -73,11 +73,6 @@ NASA C-MAPSS Turbofan Engine Degradation Simulation Dataset - 4 sub-datasets (FD
 3. Open turbofan_rul_prediction.ipynb in Jupyter Notebook, JupyterLab, or Google Colab
 4. Run all cells in order
 
-## Colab Notebook Link
-[Add your Colab share link here]
-
-## Video Demonstration
-[Add your unlisted YouTube link here]
 
 ## Future Scope
 - Incorporate deep learning models (LSTM/GRU) for sequence modeling
